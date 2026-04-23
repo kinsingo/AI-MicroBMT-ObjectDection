@@ -1,0 +1,19 @@
+task,scenario,mAP50,samples_per_second,accelerator_type,benchmark_model
+Object Detection,Offline,64.80724335,255.7452801,Mobilint-ARIES,yolov8m
+Object Detection,Offline,50.44508743,744.7265269999999,Mobilint-ARIES,yolov8n
+Object Detection,Offline,57.75780487,521.81315,Mobilint-ARIES,yolov8s
+Object Detection,Offline,58.87085342,60.53802507,Hailo-8,yolov8m
+Object Detection,Offline,44.77954483,71.54450809,Hailo-8,yolov8n
+Object Detection,Offline,53.53567505,72.9944975,Hailo-8,yolov8s
+Object Detection,Offline,60.38034058,101.7258276,DeepX M1,yolov8s
+Object Detection,Offline,51.28499222,101.4213354,DeepX M1,yolov8n
+Object Detection,Offline,65.19221497,96.06229648,DeepX M1,yolov8m
+Object Detection,Offline,60.57696915,153.7944742,Apple M4 ANE,yolov8s
+Object Detection,Offline,51.67261887,187.94139819999998,Apple M4 ANE,yolov8n
+Object Detection,Offline,65.38788605,99.90902331,Apple M4 ANE,yolov8m
+Object Detection,Offline,60.59686661,17.84451734,Apple M4 CPU,yolov8s
+Object Detection,Offline,51.67530823,50.93950798,Apple M4 CPU,yolov8n
+Object Detection,Offline,65.39667511,6.447345146,Apple M4 CPU,yolov8m
+Object Detection,Offline,60.59696198,239.1648866,RTX PRO 6000 Max-Q,yolov8s
+Object Detection,Offline,51.6753273,292.97148980000003,RTX PRO 6000 Max-Q,yolov8n
+Object Detection,Offline,65.39667511,121.13035759999998,RTX PRO 6000 Max-Q,yolov8m

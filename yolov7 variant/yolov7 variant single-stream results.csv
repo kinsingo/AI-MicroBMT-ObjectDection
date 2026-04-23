@@ -1,0 +1,13 @@
+task,scenario,mAP50,sample_latency_average,accelerator_type,benchmark_model
+Object Detection,Single-Stream,66.30380249,28.51350208,Mobilint-ARIES,yolov7
+Object Detection,Single-Stream,67.9173584,45.2070821,Mobilint-ARIES,yolov7x
+Object Detection,Single-Stream,60.82561493,47.92988865,Hailo-8,yolov7
+Object Detection,Single-Stream,62.88839722,87.66816444,Hailo-8,yolov7x
+Object Detection,Single-Stream,68.05981445,77.77413284,DeepX M1,yolov7x
+Object Detection,Single-Stream,66.40750885,63.00062227,DeepX M1,yolov7
+Object Detection,Single-Stream,68.15399933,43.97654633,Apple M4 ANE,yolov7x
+Object Detection,Single-Stream,66.63258362,37.32952354,Apple M4 ANE,yolov7
+Object Detection,Single-Stream,68.14979553,744.0225637,Apple M4 CPU,yolov7x
+Object Detection,Single-Stream,66.64164734,448.7389988,Apple M4 CPU,yolov7
+Object Detection,Single-Stream,68.14979553,41.25782386,RTX PRO 6000 Max-Q,yolov7x
+Object Detection,Single-Stream,66.64164734,22.13280881,RTX PRO 6000 Max-Q,yolov7

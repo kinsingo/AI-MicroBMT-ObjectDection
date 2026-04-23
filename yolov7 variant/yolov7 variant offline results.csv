@@ -1,0 +1,13 @@
+task,scenario,mAP50,samples_per_second,accelerator_type,benchmark_model
+Object Detection,Offline,66.30380249,171.8713977,Mobilint-ARIES,yolov7
+Object Detection,Offline,67.9173584,103.5016064,Mobilint-ARIES,yolov7x
+Object Detection,Offline,60.82561493,57.80211303,Hailo-8,yolov7
+Object Detection,Offline,62.88839722,32.57891396,Hailo-8,yolov7x
+Object Detection,Offline,68.05981445,44.04505541,DeepX M1,yolov7x
+Object Detection,Offline,66.40750885,45.72820215,DeepX M1,yolov7
+Object Detection,Offline,68.15399933,39.2384193,Apple M4 ANE,yolov7x
+Object Detection,Offline,66.63258362,56.413659700000004,Apple M4 ANE,yolov7
+Object Detection,Offline,68.14979553,0.877187985,Apple M4 CPU,yolov7x
+Object Detection,Offline,66.64164734,2.743876021,Apple M4 CPU,yolov7
+Object Detection,Offline,68.14984131,34.99981341,RTX PRO 6000 Max-Q,yolov7x
+Object Detection,Offline,66.64164734,64.58290229999999,RTX PRO 6000 Max-Q,yolov7
