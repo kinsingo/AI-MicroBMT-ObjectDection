@@ -23,7 +23,7 @@ ALL_ACCELERATORS = [
     'Mobilint-ARIES',
     'DeepX M1',
     'Hailo-8',
-    'Qualcomm QCS6490',
+    #'Qualcomm QCS6490',
     'RTX PRO 6000 Max-Q',
 ]
 
@@ -37,7 +37,7 @@ ACCELERATOR_COLORS = {
     'Mobilint-ARIES':       '#2ca02c',   # Green
     'Apple M4 ANE':         '#d62728',   # Red
     'Apple M4 CPU':         '#9467bd',   # Purple
-    'Qualcomm QCS6490':     '#8c564b',   # Brown
+    #'Qualcomm QCS6490':     '#8c564b',   # Brown
     'RTX PRO 6000 Max-Q':  '#e377c2',   # Pink
 }
 
@@ -104,7 +104,7 @@ CASE_ANALYSIS_NPUS = [
     'DeepX M1',
     'Mobilint-ARIES',
     'Hailo-8',
-    'Qualcomm QCS6490',
+    #'Qualcomm QCS6490',
     'Apple M4 ANE',
     'RTX PRO 6000 Max-Q',
 ]

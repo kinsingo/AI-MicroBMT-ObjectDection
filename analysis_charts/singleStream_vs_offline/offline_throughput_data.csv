@@ -99,26 +99,6 @@ Hailo-8,yolov8s,72.9944975,64.42132344505357
 Hailo-8,yolov9m,57.66371579,60.9462566544374
 Hailo-8,yolov9s,64.75270126,62.653774869376925
 Hailo-8,yolov9t,65.94573933,62.92292122001752
-Qualcomm QCS6490,yolo11m,0.0,0.0
-Qualcomm QCS6490,yolo11n,0.0,0.0
-Qualcomm QCS6490,yolo11s,0.0,0.0
-Qualcomm QCS6490,yolo12m,0.0,0.0
-Qualcomm QCS6490,yolo12n,0.0,0.0
-Qualcomm QCS6490,yolo12s,0.0,0.0
-Qualcomm QCS6490,yolov10m,0.0,0.0
-Qualcomm QCS6490,yolov10n,0.0,0.0
-Qualcomm QCS6490,yolov10s,0.0,0.0
-Qualcomm QCS6490,yolov5mu,0.0,0.0
-Qualcomm QCS6490,yolov5nu,0.0,0.0
-Qualcomm QCS6490,yolov5su,0.0,0.0
-Qualcomm QCS6490,yolov7,0.0,0.0
-Qualcomm QCS6490,yolov7x,0.0,0.0
-Qualcomm QCS6490,yolov8m,0.0,0.0
-Qualcomm QCS6490,yolov8n,0.0,0.0
-Qualcomm QCS6490,yolov8s,0.0,0.0
-Qualcomm QCS6490,yolov9m,0.0,0.0
-Qualcomm QCS6490,yolov9s,0.0,0.0
-Qualcomm QCS6490,yolov9t,0.0,0.0
 RTX PRO 6000 Max-Q,yolo11m,135.3226115,73.56715771717542
 RTX PRO 6000 Max-Q,yolo11n,296.82023,85.26399121164995
 RTX PRO 6000 Max-Q,yolo11s,233.8204416,81.70660775151926
