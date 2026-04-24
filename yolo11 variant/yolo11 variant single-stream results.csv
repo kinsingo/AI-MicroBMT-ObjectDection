@@ -6,14 +6,14 @@ Object Detection,Single-Stream,58.96662903,64.40008725,Hailo-8,yolo11m
 Object Detection,Single-Stream,47.61535263,39.11144378,Hailo-8,yolo11n
 Object Detection,Single-Stream,55.47328186,48.18107426,Hailo-8,yolo11s
 Object Detection,Single-Stream,65.57006073,56.00608921,DeepX M1,yolo11m
-Object Detection,Single-Stream,53.89831161,33.156465600000004,DeepX M1,yolo11n
+Object Detection,Single-Stream,53.89831161,33.1564656,DeepX M1,yolo11n
 Object Detection,Single-Stream,61.45746613,47.79143813,DeepX M1,yolo11s
 Object Detection,Single-Stream,61.57973862,24.67277934,Apple M4 ANE,yolo11s
 Object Detection,Single-Stream,54.25831604,18.07855173,Apple M4 ANE,yolo11n
 Object Detection,Single-Stream,65.75111389,39.27057335,Apple M4 ANE,yolo11m
 Object Detection,Single-Stream,61.56828308,125.300596,Apple M4 CPU,yolo11s
 Object Detection,Single-Stream,54.25328064,51.88629889,Apple M4 CPU,yolo11n
-Object Detection,Single-Stream,65.75679016,303.82471610000005,Apple M4 CPU,yolo11m
+Object Detection,Single-Stream,65.75679016,303.8247161,Apple M4 CPU,yolo11m
 Object Detection,Single-Stream,61.56829071,8.144404473,RTX PRO 6000 Max-Q,yolo11s
 Object Detection,Single-Stream,54.25326157,5.879415813,RTX PRO 6000 Max-Q,yolo11n
 Object Detection,Single-Stream,65.75676727,12.69702758,RTX PRO 6000 Max-Q,yolo11m

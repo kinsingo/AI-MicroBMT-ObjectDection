@@ -1,8 +1,8 @@
 task,scenario,mAP50,sample_latency_average,accelerator_type,benchmark_model
-Object Detection,Single-Stream,59.66191101,26.298511699999995,Mobilint-ARIES,yolov5mu
+Object Detection,Single-Stream,59.66191101,26.2985117,Mobilint-ARIES,yolov5mu
 Object Detection,Single-Stream,46.03955841,10.27588635,Mobilint-ARIES,yolov5nu
 Object Detection,Single-Stream,57.62205124,14.63528048,Mobilint-ARIES,yolov5su
-Object Detection,Single-Stream,58.057491299999995,57.29166623,Hailo-8,yolov5mu
+Object Detection,Single-Stream,58.0574913,57.29166623,Hailo-8,yolov5mu
 Object Detection,Single-Stream,42.24772644,33.24584402,Hailo-8,yolov5nu
 Object Detection,Single-Stream,51.35976028,35.70459318,Hailo-8,yolov5su
 Object Detection,Single-Stream,48.64378738,26.99993078,DeepX M1,yolov5nu
@@ -11,9 +11,9 @@ Object Detection,Single-Stream,58.40240097,45.9240191,DeepX M1,yolov5su
 Object Detection,Single-Stream,58.54852676,14.9408633,Apple M4 ANE,yolov5su
 Object Detection,Single-Stream,48.88251495,13.00645867,Apple M4 ANE,yolov5nu
 Object Detection,Single-Stream,63.77737427,19.37156594,Apple M4 ANE,yolov5mu
-Object Detection,Single-Stream,58.55023193,129.70280659999997,Apple M4 CPU,yolov5su
+Object Detection,Single-Stream,58.55023193,129.7028066,Apple M4 CPU,yolov5su
 Object Detection,Single-Stream,48.88421249,55.16334188,Apple M4 CPU,yolov5nu
 Object Detection,Single-Stream,63.77489471,302.1650964,Apple M4 CPU,yolov5mu
-Object Detection,Single-Stream,58.55029678,7.700727262000001,RTX PRO 6000 Max-Q,yolov5su
+Object Detection,Single-Stream,58.55029678,7.700727262,RTX PRO 6000 Max-Q,yolov5su
 Object Detection,Single-Stream,48.88420868,5.643656036,RTX PRO 6000 Max-Q,yolov5nu
 Object Detection,Single-Stream,63.77490616,14.99370046,RTX PRO 6000 Max-Q,yolov5mu

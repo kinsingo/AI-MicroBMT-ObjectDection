@@ -5,9 +5,9 @@ UDS_ThptFirst,UDS_Basic,RTX PRO 6000 Max-Q,0.741709200054787,4
 UDS_AccuracyStrict_with_fixed_inputRes,UDS_Basic,RTX PRO 6000 Max-Q,0.8994739874202065,4
 UDS_LatencyFirst_with_fixed_inputRes,UDS_Basic,RTX PRO 6000 Max-Q,0.8821072716406774,4
 UDS_ThptFirst_with_fixed_inputRes,UDS_Basic,RTX PRO 6000 Max-Q,0.8749548646248214,4
-EXT_AccStrict_Both,UDS_Extended,Mobilint-ARIES,0.7271707529152034,4
-EXT_LatFirst_Both,UDS_Extended,Mobilint-ARIES,0.7268598776823662,4
-EXT_ThptFirst_Both,UDS_Extended,Mobilint-ARIES,0.7467041640049729,4
-EXT_AccStrict_Both_with_fixed_inputRes,UDS_Extended,Mobilint-ARIES,0.8289970055203529,4
-EXT_LatFirst_Both_with_fixed_inputRes,UDS_Extended,Mobilint-ARIES,0.8286861302875156,4
-EXT_ThptFirst_Both_with_fixed_inputRes,UDS_Extended,Mobilint-ARIES,0.8485304166101223,4
+EXT_AccStrict_Both,UDS_Extended,Mobilint-ARIES,0.7285845353041649,4
+EXT_LatFirst_Both,UDS_Extended,Mobilint-ARIES,0.7282736600713278,4
+EXT_ThptFirst_Both,UDS_Extended,Mobilint-ARIES,0.7481179463939345,4
+EXT_AccStrict_Both_with_fixed_inputRes,UDS_Extended,Mobilint-ARIES,0.8304579139889465,4
+EXT_LatFirst_Both_with_fixed_inputRes,UDS_Extended,Mobilint-ARIES,0.8301470387561092,4
+EXT_ThptFirst_Both_with_fixed_inputRes,UDS_Extended,Mobilint-ARIES,0.8499913250787159,4

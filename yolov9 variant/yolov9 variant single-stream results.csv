@@ -12,7 +12,7 @@ Object Detection,Single-Stream,51.96505356,13.38261083,Apple M4 ANE,yolov9t
 Object Detection,Single-Stream,61.23960495,15.84390773,Apple M4 ANE,yolov9s
 Object Detection,Single-Stream,66.20127106,21.65510946,Apple M4 ANE,yolov9m
 Object Detection,Single-Stream,51.99168396,62.60135047,Apple M4 CPU,yolov9t
-Object Detection,Single-Stream,61.23288727,155.00957140000003,Apple M4 CPU,yolov9s
+Object Detection,Single-Stream,61.23288727,155.0095714,Apple M4 CPU,yolov9s
 Object Detection,Single-Stream,66.19837952,345.3845701,Apple M4 CPU,yolov9m
 Object Detection,Single-Stream,51.99170685,9.684435277,RTX PRO 6000 Max-Q,yolov9t
 Object Detection,Single-Stream,61.23288727,11.74150116,RTX PRO 6000 Max-Q,yolov9s

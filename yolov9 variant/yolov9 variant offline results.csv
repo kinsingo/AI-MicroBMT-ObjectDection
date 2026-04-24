@@ -6,7 +6,7 @@ Object Detection,Offline,59.20882416,57.66371579,Hailo-8,yolov9m
 Object Detection,Offline,54.34335327,64.75270126,Hailo-8,yolov9s
 Object Detection,Offline,44.39318085,65.94573933,Hailo-8,yolov9t
 Object Detection,Offline,51.73718262,100.0404756,DeepX M1,yolov9t
-Object Detection,Offline,60.86295319,102.85722390000001,DeepX M1,yolov9s
+Object Detection,Offline,60.86295319,102.8572239,DeepX M1,yolov9s
 Object Detection,Offline,66.09468079,97.04182125,DeepX M1,yolov9m
 Object Detection,Offline,51.96505356,213.7749514,Apple M4 ANE,yolov9t
 Object Detection,Offline,61.23960495,146.989935,Apple M4 ANE,yolov9s
@@ -14,6 +14,6 @@ Object Detection,Offline,66.20127106,81.77958919,Apple M4 ANE,yolov9m
 Object Detection,Offline,51.99168396,48.35619353,Apple M4 CPU,yolov9t
 Object Detection,Offline,61.23288727,17.77184055,Apple M4 CPU,yolov9s
 Object Detection,Offline,66.19837952,5.926545483,Apple M4 CPU,yolov9m
-Object Detection,Offline,51.99174118,246.75510010000002,RTX PRO 6000 Max-Q,yolov9t
+Object Detection,Offline,51.99174118,246.7551001,RTX PRO 6000 Max-Q,yolov9t
 Object Detection,Offline,61.23288727,166.4119228,RTX PRO 6000 Max-Q,yolov9s
 Object Detection,Offline,66.19841766,150.5083745,RTX PRO 6000 Max-Q,yolov9m

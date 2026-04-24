@@ -1,9 +1,10 @@
 task,scenario,mAP50,samples_per_second,accelerator_type,benchmark_model
-Object Detection,Offline,65.3168335,149.11374730000003,Mobilint-ARIES,yolo12m
+Object Detection,Offline,65.3168335,149.1137473,Mobilint-ARIES,yolo12m
 Object Detection,Offline,54.79487228,448.1791323,Mobilint-ARIES,yolo12n
 Object Detection,Offline,62.07860184,268.4211375,Mobilint-ARIES,yolo12s
-Object Detection,Offline,55.433010100000004,46.03691992,DeepX M1,yolo12n
+Object Detection,Offline,55.4330101,46.03691992,DeepX M1,yolo12n
 Object Detection,Offline,62.30085373,23.22404259,DeepX M1,yolo12s
+Object Detection,Offline,66.80801392,13.32090399,DeepX M1,yolo12m
 Object Detection,Offline,62.78076935,59.09950203,Apple M4 ANE,yolo12s
 Object Detection,Offline,55.77677917,108.3764186,Apple M4 ANE,yolo12n
 Object Detection,Offline,67.24602509,32.13160419,Apple M4 ANE,yolo12m

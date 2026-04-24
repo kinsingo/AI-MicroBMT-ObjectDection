@@ -1,5 +1,5 @@
 task,scenario,mAP50,samples_per_second,accelerator_type,benchmark_model
-Object Detection,Offline,65.2006073,227.58293619999998,Mobilint-ARIES,yolo11m
+Object Detection,Offline,65.2006073,227.5829362,Mobilint-ARIES,yolo11m
 Object Detection,Offline,52.50618362,705.5366637,Mobilint-ARIES,yolo11n
 Object Detection,Offline,60.88858414,477.7615692,Mobilint-ARIES,yolo11s
 Object Detection,Offline,58.96662903,35.86253914,Hailo-8,yolo11m
@@ -8,12 +8,12 @@ Object Detection,Offline,55.47328186,65.33812114,Hailo-8,yolo11s
 Object Detection,Offline,65.57006073,81.32369016,DeepX M1,yolo11m
 Object Detection,Offline,53.89831161,103.777867,DeepX M1,yolo11n
 Object Detection,Offline,61.45746613,101.3778595,DeepX M1,yolo11s
-Object Detection,Offline,61.57973862,141.02053569999998,Apple M4 ANE,yolo11s
-Object Detection,Offline,54.25831604,171.10395309999998,Apple M4 ANE,yolo11n
+Object Detection,Offline,61.57973862,141.0205357,Apple M4 ANE,yolo11s
+Object Detection,Offline,54.25831604,171.1039531,Apple M4 ANE,yolo11n
 Object Detection,Offline,65.75111389,72.18662006,Apple M4 ANE,yolo11m
 Object Detection,Offline,61.56828308,22.33143392,Apple M4 CPU,yolo11s
 Object Detection,Offline,54.25328064,61.39968481,Apple M4 CPU,yolo11n
-Object Detection,Offline,65.75679016,7.7135301620000005,Apple M4 CPU,yolo11m
-Object Detection,Offline,61.56829453,233.82044159999998,RTX PRO 6000 Max-Q,yolo11s
-Object Detection,Offline,54.253269200000005,296.82023,RTX PRO 6000 Max-Q,yolo11n
+Object Detection,Offline,65.75679016,7.713530162,Apple M4 CPU,yolo11m
+Object Detection,Offline,61.56829453,233.8204416,RTX PRO 6000 Max-Q,yolo11s
+Object Detection,Offline,54.2532692,296.82023,RTX PRO 6000 Max-Q,yolo11n
 Object Detection,Offline,65.75678253,135.3226115,RTX PRO 6000 Max-Q,yolo11m
